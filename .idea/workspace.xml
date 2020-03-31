@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a6be147-cf69-4b1f-afbe-6e326bbb3d56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZrsUmDp1j80EnO92PgIaIK8uuC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Gherkin" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/LoginFeature" />
+      <option name="GLUE" value="steps_definitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SeleniumCourse" />
+      <option name="PROGRAM_PARAMETERS" value="--plugin &quot;pretty&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SeleniumCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a6be147-cf69-4b1f-afbe-6e326bbb3d56" name="Default Changelist" comment="" />
+      <created>1585608564540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585608564540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1437" y="484" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585620591245">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1437" y="484" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585620591245" />
+    <state x="1598" y="404" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585610736588">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1598" y="404" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585610736588" />
+    <state x="1583" y="637" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585619242705">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1583" y="637" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585619242705" />
+    <state width="1112" height="371" key="GridCell.Tab.0.bottom" timestamp="1585625903429">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1112" height="371" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1585625903429" />
+    <state width="1112" height="371" key="GridCell.Tab.0.center" timestamp="1585625903429">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1112" height="371" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1585625903429" />
+    <state width="1112" height="371" key="GridCell.Tab.0.left" timestamp="1585625903428">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1112" height="371" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1585625903428" />
+    <state width="1112" height="371" key="GridCell.Tab.0.right" timestamp="1585625903429">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1112" height="371" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1585625903429" />
+    <state x="1395" y="357" key="SettingsEditor" timestamp="1585610840733">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1395" y="357" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1585610840733" />
+    <state x="1703" y="541" key="com.intellij.ide.util.TipDialog" timestamp="1585608569938">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1703" y="541" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585608569938" />
+    <state x="1730" y="639" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1585619135533">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1730" y="639" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585619135533" />
+    <state x="1640" y="351" width="670" height="676" key="search.everywhere.popup" timestamp="1585610783077">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1640" y="351" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1585610783077" />
+  </component>
+</project>

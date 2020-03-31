@@ -1,0 +1,87 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-03-31T03:44:24.751Z",
+        "before": [
+          {
+            "result": {
+              "duration": 251231027,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Login_steps.setupClass()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Login functionality exists",
+        "description": "",
+        "id": "as-a-user-i-want-to-design-a-facebook-login-page;login-functionality-exists",
+        "after": [
+          {
+            "result": {
+              "duration": 80654346,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Login_steps.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 794459054,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I have open the browser",
+            "match": {
+              "location": "Login_steps.iHaveOpenTheBrowser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1683853286,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I open Facebook website",
+            "match": {
+              "location": "Login_steps.iOpenFacebookWebsite()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 37901940,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Login button should exit",
+            "match": {
+              "location": "Login_steps.loginButtonShouldExit()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smokeCICD"
+          }
+        ]
+      }
+    ],
+    "name": "As a user I want to design a facebook login page",
+    "description": "",
+    "id": "as-a-user-i-want-to-design-a-facebook-login-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/LoginFeature/Login.feature",
+    "tags": []
+  }
+]
