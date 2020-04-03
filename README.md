@@ -1,5 +1,5 @@
 # SeleniumProject 
-[Credit to the dev Avengers YouTube channel](https://www.youtube.com/watch?v=T3OvEcVvCRI)
+[dev Avengers YouTube channel](https://www.youtube.com/watch?v=T3OvEcVvCRI)
 
 The framework will be developed using:
 - Maven
