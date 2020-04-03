@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a6be147-cf69-4b1f-afbe-6e326bbb3d56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-report/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-json-report.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-json-report.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Gherkin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -85,10 +92,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1437" y="484" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585620591245">
+    <state x="1573" y="373" width="813" height="666" key="#Project_Structure" timestamp="1585711981562">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="1437" y="484" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585620591245" />
+    <state x="1573" y="373" width="813" height="666" key="#Project_Structure/0.23.2560.1337@0.23.2560.1337" timestamp="1585711981562" />
+    <state x="179" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585882347506">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="179" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585882347506" />
     <state x="1598" y="404" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585610736588">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
@@ -97,30 +108,34 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1583" y="637" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585619242705" />
-    <state width="1112" height="371" key="GridCell.Tab.0.bottom" timestamp="1585625903429">
+    <state width="1112" height="371" key="GridCell.Tab.0.bottom" timestamp="1585947549166">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1112" height="371" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1585625903429" />
-    <state width="1112" height="371" key="GridCell.Tab.0.center" timestamp="1585625903429">
+    <state width="1112" height="371" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1585947549166" />
+    <state width="1112" height="371" key="GridCell.Tab.0.center" timestamp="1585947549166">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1112" height="371" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1585625903429" />
-    <state width="1112" height="371" key="GridCell.Tab.0.left" timestamp="1585625903428">
+    <state width="1112" height="371" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1585947549166" />
+    <state width="1112" height="371" key="GridCell.Tab.0.left" timestamp="1585947549165">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1112" height="371" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1585625903428" />
-    <state width="1112" height="371" key="GridCell.Tab.0.right" timestamp="1585625903429">
+    <state width="1112" height="371" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1585947549165" />
+    <state width="1112" height="371" key="GridCell.Tab.0.right" timestamp="1585947549166">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1112" height="371" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1585625903429" />
+    <state width="1112" height="371" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1585947549166" />
     <state x="1395" y="357" key="SettingsEditor" timestamp="1585610840733">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1395" y="357" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1585610840733" />
-    <state x="1703" y="541" key="com.intellij.ide.util.TipDialog" timestamp="1585608569938">
+    <state x="1703" y="541" key="com.intellij.ide.util.TipDialog" timestamp="1585774076807">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="1703" y="541" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585608569938" />
+    <state x="1703" y="541" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585774076807" />
+    <state x="1314" y="377" key="new project wizard" timestamp="1585799564631">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1314" y="377" key="new project wizard/0.23.2560.1337@0.23.2560.1337" timestamp="1585799564631" />
     <state x="1730" y="639" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1585619135533">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>

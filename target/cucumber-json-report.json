@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-03-31T03:44:24.751Z",
+        "start_timestamp": "2020-04-03T20:59:09.685Z",
         "before": [
           {
             "result": {
-              "duration": 251231027,
+              "duration": 297101571,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 80654346,
+              "duration": 78306060,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 794459054,
+              "duration": 903648883,
               "status": "passed"
             },
             "line": 5,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 1683853286,
+              "duration": 1242815906,
               "status": "passed"
             },
             "line": 6,
@@ -59,7 +59,7 @@
           },
           {
             "result": {
-              "duration": 37901940,
+              "duration": 43574169,
               "status": "passed"
             },
             "line": 7,
@@ -73,6 +73,228 @@
         "tags": [
           {
             "name": "@smokeCICD"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-04-03T20:59:12.253Z",
+        "before": [
+          {
+            "result": {
+              "duration": 36076212,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Login_steps.setupClass()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Login functionality exists",
+        "description": "",
+        "id": "as-a-user-i-want-to-design-a-facebook-login-page;login-functionality-exists",
+        "after": [
+          {
+            "result": {
+              "duration": 76743914,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Login_steps.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 689877438,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I have open the browser",
+            "match": {
+              "location": "Login_steps.iHaveOpenTheBrowser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1209820475,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I open Facebook website",
+            "match": {
+              "location": "Login_steps.iOpenFacebookWebsite()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 27570327,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Login button should exit",
+            "match": {
+              "location": "Login_steps.loginButtonShouldExit()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smokeUAT"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-04-03T20:59:14.293Z",
+        "before": [
+          {
+            "result": {
+              "duration": 32016556,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Login_steps.setupClass()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Login functionality exists",
+        "description": "",
+        "id": "as-a-user-i-want-to-design-a-facebook-login-page;login-functionality-exists",
+        "after": [
+          {
+            "result": {
+              "duration": 80337468,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Login_steps.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 738525386,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I have open the browser",
+            "match": {
+              "location": "Login_steps.iHaveOpenTheBrowser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1453193457,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I open Facebook website",
+            "match": {
+              "location": "Login_steps.iOpenFacebookWebsite()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 30537640,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Login button should exit",
+            "match": {
+              "location": "Login_steps.loginButtonShouldExit()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smokePREPROD"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-04-03T20:59:16.628Z",
+        "before": [
+          {
+            "result": {
+              "duration": 29593675,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Login_steps.setupClass()"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Login functionality exists",
+        "description": "",
+        "id": "as-a-user-i-want-to-design-a-facebook-login-page;login-functionality-exists",
+        "after": [
+          {
+            "result": {
+              "duration": 82557370,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Login_steps.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 647652033,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I have open the browser",
+            "match": {
+              "location": "Login_steps.iHaveOpenTheBrowser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1388691512,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I open Facebook website",
+            "match": {
+              "location": "Login_steps.iOpenFacebookWebsite()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 31653133,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Login button should exit",
+            "match": {
+              "location": "Login_steps.loginButtonShouldExit()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smokePROD"
           }
         ]
       }
